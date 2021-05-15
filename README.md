@@ -16,7 +16,7 @@ This application uses Denton crime data available from the City of Denton [open 
 
 5. Navigate to the *Map tab* for crime locations and click on each point for details;
 
-6. Navigate to the *Dashboard tab* for the number of crimes by crime type and public address.
+6. Navigate to the *Dashboard tab* for the number of crimes by crime type and public address;
 
 7. Navigate to the *Data Table tab* to look up details of each crime by yourself.
 
