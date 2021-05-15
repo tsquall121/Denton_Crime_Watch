@@ -1,4 +1,4 @@
-# Denton Crime Watch Shiny Dashboard
+# [Denton Crime Watch Shiny Dashboard](https://tsquall121.shinyapps.io/Denton_Crime_Watch/)
 ## by [Jie Tao](https://www.linkedin.com/in/jie-tao-5a7a06126/)
 
 **About the dashboard:**
