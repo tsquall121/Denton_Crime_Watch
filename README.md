@@ -25,4 +25,4 @@ This application uses Denton crime data available from the City of Denton [open 
 I have lived in Denton for 5 years and recently graduated from the University of North Texas with a PhD degree in Public Administration. I am a data scientist who love to help more people understand the government with data science tools. If you have any questions about the dashboard, please reach me at Jie.Tao@unt.edu
 
 **First glance:**
-![dashboard]()
+![dashboard](https://github.com/tsquall121/Denton_Crime_Watch/blob/main/dashboard.png)
