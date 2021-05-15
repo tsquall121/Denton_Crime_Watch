@@ -12,7 +12,7 @@ This application uses Denton crime data available from the City of Denton [open 
 
 3. Select at least one type of crime from the Crime Type box ;
 
-4. Click on the search icon;
+4. Click on the ![search icon]();
 
 5. Navigate to the Map tab for crime locations and click on each point for details;
 
