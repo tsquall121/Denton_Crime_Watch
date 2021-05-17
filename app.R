@@ -138,18 +138,18 @@ server <- function(input, output) {
               dashboard, and 3) look up details of each crime in the data table."),
             br(),
             p(strong("How to use:")),
-            p("1. Type a street name (e.g., Fry St, Ave A, Oak St, etc...)",
+            p("1. Select a date range between",
+              span(em("2019-11-06"), style = "color:lightblue"),
+              "and",
+              span(em("2021-05-06"), style = "color:lightblue"), ";"),                                                       
+            p("2. Select", span(em("at least one"), style = "color:lightblue"),
+              "type of crime from the",
+              span(em("Crime Type box"), style = "color:lightblue"), ";"),
+             p("3. Type a street name (e.g., Fry St, Ave A, Oak St, etc...)",
               span(em("without the street number"), style = "color:lightblue"),
               "due to privacy concern from the original data or you can simply",
               span(em("leave it blank for crimes at all locations"),
                    style = "color:lightblue"), ";"),
-            p("2. Select a date range between",
-              span(em("2019-11-06"), style = "color:lightblue"),
-              "and",
-              span(em("2021-05-06"), style = "color:lightblue"), ";"),                                                       
-            p("3. Select", span(em("at least one"), style = "color:lightblue"),
-              "type of crime from the",
-              span(em("Crime Type box"), style = "color:lightblue"), ";"),
             p("4. Click on", code(icon("search"))),
             p("5. Navigate to the",
               span(em("Map tab"), style = "color:lightblue"), "for crime locations
@@ -163,7 +163,7 @@ server <- function(input, output) {
             p(strong("About me:")),
             p("I have lived in Denton for 5 years and recently graduated from the
               University of North Texas with a PhD degree in Public Administration.
-              I am a data scientist who love to help more people understand the
+              I am a data scientist who loves to help more people understand the
               government with data science tools. If you have any questions about
               the dashboard, please reach me at",
               span("Jie.Tao@unt.edu", style = "color:orange"),
