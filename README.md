@@ -21,9 +21,6 @@ This application uses Denton crime data available from the City of Denton [open 
 
 7. Navigate to the *Data Table tab* to look up details of each crime by yourself.
 
-**About me:**
-
-I have lived in Denton for 5 years and recently graduated from the University of North Texas with a PhD degree in Public Administration. I am a data scientist who loves to help more people understand the government with data science tools. If you have any questions about the dashboard, please reach me at Jie.Tao@unt.edu
 
 **First glance:**
 
