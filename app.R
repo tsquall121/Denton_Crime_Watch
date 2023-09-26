@@ -161,12 +161,10 @@ server <- function(input, output) {
               "to look up details of each crime by yourself."),
             br(),
             p(strong("About me:")),
-            p("I have lived in Denton for 5 years and recently graduated from the
-              University of North Texas with a PhD degree in Public Administration.
-              I am a data scientist who loves to help more people understand the
+            p("I am an assistant professor & data scientist who loves to help more people understand the
               government with data science tools. If you have any questions about
               the dashboard, please reach me at",
-              span("Jie.Tao@unt.edu", style = "color:orange"),
+              span("jtao@tarleton.edu", style = "color:orange"),
               code(icon("envelope-square")))
         )
     })
